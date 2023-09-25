@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/action_activity1"
+            android:title="MainActivity" />
+        <item
+            android:id="@+id/action_activity2"
+            android:title="ResultadoActivity" />
+        <item
+            android:id="@+id/action_activity3"
+            android:title="NotificacionesActivity" />
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/menuLinearLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+
+        </LinearLayout>
+    </HorizontalScrollView>
+</menu>

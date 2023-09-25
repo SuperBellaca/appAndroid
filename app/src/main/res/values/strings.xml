@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SkinsLoL</string>
+    <string name="txt_boton">Buscar</string>
+    <string name="txt1">acá debe debería mostrar los resultados</string>
+    <string name="txt_botonvolver">←</string>
+    <string name="descripción">Aquí se hará un resumen del parche sobre buff y nerf a campeones del juego y más</string>
+</resources>
